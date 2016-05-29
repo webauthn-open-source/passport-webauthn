@@ -1,0 +1,32 @@
+{
+  "name": "passport-webauthn",
+  "version": "0.0.1",
+  "description": "A WebAuthn authentication strategy for Passport.",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apowers313/passport-webauthn.git"
+  },
+  "keywords": [
+    "webauthn",
+    "webauth",
+    "fido2",
+    "fido",
+    "passport",
+    "authentication",
+    "auth",
+    "authn"
+  ],
+  "author": "Adam Powers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apowers313/passport-webauthn/issues"
+  },
+  "homepage": "https://github.com/apowers313/passport-webauthn#readme",
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  }
+}
